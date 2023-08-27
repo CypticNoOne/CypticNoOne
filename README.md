@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CypticNoOne
+- 👋 Hi, I’m Amahle
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML and CSS and JavaScript
+- 💞️ I’m looking to collaborate on any web development projects
+- 📫 How to reach me ... 
 
 <!---
 CypticNoOne/CypticNoOne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
