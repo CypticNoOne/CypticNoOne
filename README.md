@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amahle
-- 👀 I’m interested in Web Development
+- Interested in Web Development
 - 🌱 I’m currently learning HTML and CSS and JavaScript
 - 💞️ I’m looking to collaborate on any web development projects
 - 📫 How to reach me ... 
